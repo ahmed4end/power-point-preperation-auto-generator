@@ -1,0 +1,9 @@
+[DEFAULT]
+title = How to add two decimal numbers together
+obj1 = How to add two decimal numbers together 1
+obj2 = How to add two decimal numbers together 2
+obj3 = 
+schoolbook_hw = 89
+booklet_hw = 56
+filename = ppt
+
